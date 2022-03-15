@@ -102,7 +102,7 @@ li:not(:last-child) {
 }
 
 .body-container {
-  padding: 1em;
+  padding: 5em;
   margin-left: 2.26em;
   min-width: 80%
 }
@@ -149,6 +149,8 @@ li:not(:last-child) {
 
 .work-history {
   position: relative;
+  max-width: 80%;
+  min-width: 60%;
 }
 
 .collapsible {
