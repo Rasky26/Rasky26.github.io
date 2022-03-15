@@ -150,7 +150,8 @@ li:not(:last-child) {
 .work-history {
   position: relative;
   max-width: 80%;
-  min-width: 60%;
+  min-width: 60%;  
+  margin-bottom: 1.26em;
 }
 
 .work-history > h3:nth-child(2) {
